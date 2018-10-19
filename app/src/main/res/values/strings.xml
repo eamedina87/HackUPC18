@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HackUPC18</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_jobs">Jobs</string>
+</resources>
